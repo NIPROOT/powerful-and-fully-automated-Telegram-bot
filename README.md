@@ -28,7 +28,7 @@ This bot provides everything needed to run a full e-commerce workflow directly i
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/NIPROOT/powerful-and-fully-automated-Telegram-bot.git
 cd <repo-name>
 ```
 
