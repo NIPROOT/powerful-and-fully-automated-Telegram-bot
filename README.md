@@ -41,8 +41,6 @@ pip install pyTelegramBotAPI
 Make sure the following files exist in your project directory:
 
 ```
-users.json
-admins.json
 products.json
 discount_codes.json
 images.png
@@ -95,8 +93,6 @@ python main.py
 ```
 ├── main.py                # Core bot logic
 ├── manage.py              # User management and activity tracking
-├── users.json             # Registered users data
-├── admins.json            # List of bot administrators
 ├── products.json          # Product database with categories
 ├── discount_codes.json    # Discount code storage
 ├── images.png             # Payment QR or account image
